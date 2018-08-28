@@ -1,0 +1,1 @@
+gcc classify.c -o classify -ldarknet -L`pwd`
